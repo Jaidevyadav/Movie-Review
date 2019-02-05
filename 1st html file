@@ -6,3 +6,16 @@
 <meta name="viewport" content="widtd=device-width, initial-scale=1">
 <link rel="stylesheet" href="D:\JY\bootstrap\css\bootstrap.min.css">
 </head>
+
+
+
+<body>
+<div class="container">
+<div class="jumbotron">
+<h1>Personal</h1>
+<form action="#">
+
+  <div class="form-group">
+    <label for="name">Enter the First Name</label>
+    <input type="text" class="form-control" id="name">
+  </div>
